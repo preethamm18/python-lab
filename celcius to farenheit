@@ -1,0 +1,5 @@
+celcius=int(input("enter temperature in celcius"))
+farhenheit=(celcius)*9/5+32
+print("the temperature farhenheit",farhenheit)
+
+ 

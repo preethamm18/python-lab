@@ -1,0 +1,3 @@
+L1=[380,783]
+L1.append(94)
+print("append used",L1)

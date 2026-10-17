@@ -1,0 +1,11 @@
+name=input("enter the name:")
+mobile=input("enter th enumber:")
+usnid=input("enter the usnid;")
+branchname=input("enter the branch name:")
+rollno=input("enter the roll no:")
+print("name ",name)
+print("mobile",mobile)
+print("usnid",usnid)
+print("branchname",branchname)
+print("rollno",rollno)
+

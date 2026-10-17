@@ -1,0 +1,2 @@
+mixed_list1=["violet",21]
+print("this is a mixed list",mixed_list1)

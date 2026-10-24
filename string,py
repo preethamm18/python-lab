@@ -1,0 +1,29 @@
+
+
+text = "Hello Python"
+
+# 1. String Indexing
+print("Original String:", text)
+print("First Character:", text[0])
+print("Last Character:", text[-1])
+print("Character at Index 6:", text[6])
+
+# 2. String Slicing
+print("\n--- String Slicing ---")
+print("First Five Characters:", text[0:5])
+print("Python Part:", text[6:12])
+print("First Six Characters:", text[:6])
+print("From Index 6 to End:", text[6:])
+print("Reverse String:", text[::-1])
+
+# 3. Built-in String Methods
+print("\n--- Built-in String Methods ---")
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
+print("Title Case:", text.title())
+print("Replace:", text.replace("Python", "World"))
+print("Length:", len(text))
+print("Count of 'o':", text.count("o"))
+print("Find 'Python':", text.find("Python"))
+print("Starts with Hello:", text.startswith("Hello"))
+print("Split:", text.split())
